@@ -1,8 +1,5 @@
 ### Hello, this is meskerem 👋
 
-<!--
-**Meskeremhab/Meskeremhab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# Meskerem Habtom
 
 ## 👨‍💻 About Me
 
@@ -37,10 +34,12 @@ Hello! I'm Meski, a student of master's in computer science with background of E
 - **LinkedIn:** www.linkedin.com/in/meskerem-habtom-8b6514220
 
 
--->
+<!--
 
 Feel free to explore my repositories and connect with me! 🚀
 Here are some ideas to get you started:
+**Meskeremhab/Meskeremhab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Meskerem Habtom
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -50,4 +49,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
