@@ -1,15 +1,15 @@
-### Hello, this is meskerem 👋
+### Hello, This is Meski 👋
 
 
 ## 👨‍💻 About Me
 
-Hello! I'm Meski, master's student in computer science with background of Electronics and communication Engineering.
+ Master's student at IE in computer science with background of Electronics and communication Engineering.
 
 ## 🔧 Projects
 
 ### Project 1
 
- **Name:** Non-invasive glucometer  \n
+ **Name:** Non-invasive glucometer  
  **Description:** a non invasive glucometer that works by using infrared light at  specified wavelength.
  
 
@@ -17,17 +17,29 @@ Hello! I'm Meski, master's student in computer science with background of Electr
 
  **Name:** VoIP using asterisk platform  
  **Description:** designed voip using asterisk for small offices.
+ ### Project 3
+
+ **Name:** Network topologies    
+ **Description:** designed different network topologies by using NS2 network simulator.  
+
+ ## 🔭 EXPERIANCE  
+ **Company** Huawei Technologies 
+ **Description** worked as a Software Maintenace Engineer for a year
 
  ## 🚀 Skills
  
- **Technologies:** linux, NGBSS  
+ **Technologies:** linux, NGBSS, VAS  
  **Databases:** SQL, GaussDB  
-
 
 
 ## 📫 Get in Touch
 
 - **LinkedIn:** www.linkedin.com/in/meskerem-habtom-8b6514220
+
+## Fun Facts
+
+ 📚❤ Books  
+ Books are my love language.
 
 
 <!--
