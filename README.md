@@ -3,7 +3,7 @@
 
 ## 👨‍💻 About Me
 
-Hello! I'm Meski, a student of master's in computer science with background of Electronics and communication Engineering.
+Hello! I'm Meski, master's student in computer science with background of Electronics and communication Engineering.
 
 ## 🚀 Skills
 
