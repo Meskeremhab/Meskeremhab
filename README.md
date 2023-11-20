@@ -7,13 +7,13 @@
 
 ## 🔧 Projects
 
-### Project 1
+### 🩸 Project 1
 
  **Name:** Non-invasive glucometer  
  **Description:** a non invasive glucometer that works by using infrared light at  specified wavelength.
  
 
-### ![image](https://github.com/Meskeremhab/Meskeremhab/assets/118331075/7b6061be-65dd-4275-ad45-0d9ddf8538d4) Project 2 
+### 📞 Project 2 
 
  **Name:** VoIP using asterisk platform  
  **Description:** designed voip using asterisk for small offices.
@@ -39,7 +39,7 @@
 
 ## 📫 Get in Touch
 
-- **LinkedIn:** www.linkedin.com/in/meskerem-habtom-8b6514220
+- **LinkedIn:** let's connect 🤝  www.linkedin.com/in/meskerem-habtom-8b6514220
 
 
 
