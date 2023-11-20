@@ -16,17 +16,14 @@ Hello! I'm Meski, master's student in computer science with background of Electr
 
 ### Project 1
 
- **Name:** [Non-invasive glucometer]
+ **Name:** Non-invasive glucometer\n
  **Description:** a non invasive glucometer that works by using infrared light at  specified wavelength.
- **GitHub Repository:** [Link to Project 1 Repository]
+ 
 
 ### Project 2
 
  **Name:** VoIP using asterisk platform
  **Description:** designed voip using asterisk for small offices.
- **GitHub Repository:** 
-
-
 
 
 ## 📫 Get in Touch
