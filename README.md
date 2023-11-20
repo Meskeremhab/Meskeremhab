@@ -13,33 +13,35 @@
  **Description:** a non invasive glucometer that works by using infrared light at  specified wavelength.
  
 
-### Project 2
+### ![image](https://github.com/Meskeremhab/Meskeremhab/assets/118331075/7b6061be-65dd-4275-ad45-0d9ddf8538d4) Project 2 
 
  **Name:** VoIP using asterisk platform  
  **Description:** designed voip using asterisk for small offices.
+ 
  ### Project 3
 
  **Name:** Network topologies    
  **Description:** designed different network topologies by using NS2 network simulator.  
 
  ## 🔭 EXPERIANCE  
- **Company** Huawei Technologies 
+ **Company** Huawei Technologies   
  **Description** worked as a Software Maintenace Engineer for a year
 
  ## 🚀 Skills
  
- **Technologies:** linux, NGBSS, VAS  
- **Databases:** SQL, GaussDB  
+ linux, NGBSS, VAS, GaussDB  
+
+ ## Fun Facts
+
+ 📚❤ Books  
+ Books are my love language.
 
 
 ## 📫 Get in Touch
 
 - **LinkedIn:** www.linkedin.com/in/meskerem-habtom-8b6514220
 
-## Fun Facts
 
- 📚❤ Books  
- Books are my love language.
 
 
 <!--
