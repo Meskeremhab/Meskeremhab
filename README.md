@@ -5,25 +5,24 @@
 
 Hello! I'm Meski, master's student in computer science with background of Electronics and communication Engineering.
 
-## 🚀 Skills
-
- **Programming Languages:** python, c++
- **Technologies:** linux, NGBSS
- **Databases:** SQL, GaussDB
- **Cloud Platforms:** GCP
-
 ## 🔧 Projects
 
 ### Project 1
 
- **Name:** Non-invasive glucometer\n
+ **Name:** Non-invasive glucometer  \n
  **Description:** a non invasive glucometer that works by using infrared light at  specified wavelength.
  
 
 ### Project 2
 
- **Name:** VoIP using asterisk platform
+ **Name:** VoIP using asterisk platform  
  **Description:** designed voip using asterisk for small offices.
+
+ ## 🚀 Skills
+ 
+ **Technologies:** linux, NGBSS  
+ **Databases:** SQL, GaussDB  
+
 
 
 ## 📫 Get in Touch
