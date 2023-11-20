@@ -7,7 +7,7 @@
 
 ## 🔧 Projects
 
-### 🩸 Project 1
+### Project 1
 
  **Name:** Non-invasive glucometer  
  **Description:** a non invasive glucometer that works by using infrared light at  specified wavelength.
@@ -39,7 +39,7 @@
 
 ## 📫 Get in Touch
 
-- **LinkedIn:** let's connect 🤝  www.linkedin.com/in/meskerem-habtom-8b6514220
+- **LinkedIn:** www.linkedin.com/in/meskerem-habtom-8b6514220
 
 
 
