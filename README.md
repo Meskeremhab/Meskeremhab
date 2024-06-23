@@ -29,7 +29,7 @@
 
  ## 🚀 Skills
  
- linux, NGBSS, VAS, GaussDB  
+ linux, NGBSS, VAS, GaussDB, flask, react, postman, python, SQL, Machine learning
 
  ## Fun Facts
 
@@ -39,7 +39,7 @@
 
 ## 📫 Get in Touch
 
-- **LinkedIn:** www.linkedin.com/in/meskerem-habtom-8b6514220
+- **LinkedIn:** www.linkedin.com/in/meskerem-habtom
 
 
 
