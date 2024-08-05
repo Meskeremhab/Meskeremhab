@@ -3,15 +3,17 @@
 
 ## 👨‍💻 About Me
 
- Master's student at IE in computer science with background of Electronics and communication Engineering.
+ Master's Graduate at IE in computer science with background of Electronics and communication Engineering.
 
 ## 🔧 Projects
 
-### Project 1
+### Project 1 (final projects for bachelor and master)
 
  **Name:** Non-invasive glucometer  
  **Description:** a non invasive glucometer that works by using infrared light at  specified wavelength.
  
+ **Name:** Item management website template by using FARM  
+ **Description:** Database Migration for Full-Stack Web Application from SQL to MongoDB
 
 ### 📞 Project 2 
 
@@ -29,7 +31,7 @@
 
  ## 🚀 Skills
  
- linux, NGBSS, VAS, GaussDB, flask, react, postman, python, SQL, Machine learning
+ linux, NGBSS, VAS, GaussDB, flask, react, postman, python, SQL, Machine learning, AWS-CDK, gCP
 
  ## Fun Facts
 
